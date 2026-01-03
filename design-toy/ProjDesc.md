@@ -1,4 +1,4 @@
-# Blaze Buster — Spring-Powered Emergency Toy
+# Blaze Buster - Spring-Powered Emergency Toy
 
 ENGG*2100 Engineering Design Project
 
