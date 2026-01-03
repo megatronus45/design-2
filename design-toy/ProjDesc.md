@@ -76,4 +76,4 @@ Photos of the assembled toy, launcher mechanism, and disassembled components are
 ## Author
 ### Numair Syed  
 
-Team project (4 members). I, alongside another group member, were the primary contributors, responsible for the mechanical design, launcher mechanism, prototyping, testing, and final documentation.
+Team project (5 total members). I, alongside another group member, were the primary contributors, responsible for the mechanical design, launcher mechanism, prototyping, testing, and final documentation.
